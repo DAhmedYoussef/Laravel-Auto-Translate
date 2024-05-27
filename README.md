@@ -5,6 +5,10 @@ Laravel Auto Translate without files
 
 # Artisan
 ```
+composer create-project laravel/laravel example-app
+```
+
+```
 composer require stichoza/google-translate-php
 
 ```
