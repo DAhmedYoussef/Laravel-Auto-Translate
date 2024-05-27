@@ -1,0 +1,5 @@
+composer require stichoza/google-translate-php
+
+
+
+php artisan make:controller langcontroller
