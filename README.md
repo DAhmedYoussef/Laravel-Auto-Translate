@@ -10,17 +10,17 @@ Thanks to Laravel-Auto-Translate, you can save time and effort in developing you
 # Artisan
 
 
-## create new laravel project  
+### create new laravel project  
 ```
 composer create-project laravel/laravel example-app
 ```
-## Add google translate libary  
+### Add google translate libary  
 ```
 composer require stichoza/google-translate-php
 
 ```
 
-## create  langcontroller controller file  
+### create  langcontroller controller file  
 ```
 php artisan make:controller langcontroller
 
