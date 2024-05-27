@@ -8,16 +8,19 @@ With Laravel-Auto-Translate, there's no need for manual insertion of language fi
 Thanks to Laravel-Auto-Translate, you can save time and effort in developing your applications rather than worrying about translating content. All you need to do is include this component in your project and benefit from it without hassle.
 
 # Artisan
+
+
+## create new laravel project  
 ```
 composer create-project laravel/laravel example-app
 ```
-
+## Add google translate libary  
 ```
 composer require stichoza/google-translate-php
 
 ```
 
-
+## create  langcontroller controller file  
 ```
 php artisan make:controller langcontroller
 
